@@ -1,0 +1,16 @@
+---
+title: "About Me"
+draft: false
+---
+
+I love to learn, and I reckon I’m getting pretty good at it!
+
+![me](/images/mugshot.jpg)
+
+I’ve been studying off and mostly on over the past 8 years, where my interests initially lay in linguistics and international relations. After completing my second degree with a rather hectic undergrad thesis on people’s perception toward migration in the peak of the Syrian crisis, I found myself wondering what to do next. It wasn’t clear what kind of employment came next, where I liked the idea of being able to move around the globe, meeting new people, learning new languages and having amazing experiences - one of the things that drew me to an international study career to begin with. I felt strangely inexperienced, feeling as if I’d come to some type of dead end in my career, without it having started. I was based in Europe, but educated in Australia and was unsure what options I had.
+
+One day in Spain, while sitting in a bar contemplating whether to stay or make my way back home to Melbourne, I bumped into a troupe of digital nomads, also having drinks and tapas for a local meetup. Now I’ve always been a very tech literate person, hacking and cracking my way through highschool, and I often found myself writing assignments on topics relating to the changing democratic landscape with the rise of global connectivity fueled by technological modernity so it might come as a suprise to learn that I had never considered a career in technology. A sense of realisation came across me while speaking to the nomads, and I realised this was my path forward. The problem became how to take the first steps, and not waste too much time.
+
+I came back to Melbourne and enrolled in a Computer Science undergrad degree, aiming to use the time to figure out which areas of Computer Science I found interesting. This way, I could transfer into a post graduate degree with confidence. I got some exposure to Data Science and Machine Learning while working with Engineers at Uber and Edrolo (an EdTech startup based in Melbourne) and I decided that this blend of Statistics and Computer Science was the right fit for me, I found the process of decision making based on empirical evidence gathered in experiments fascinating.
+
+So far, my journey has worked out quite well, although admittedly as I come toward the end of my Master’s Degree I am realising the more I learn, the more I don’t know. I’m becoming more interested in Data Science applications in the environmental space, where I’d love to be able to make a positive environmental impact through my work. Some of the ideas I’ve played with are to help to grow crops more effectively, monitor border crossing areas to deploy resources effectively during humanitarian crises in a world of more frequent climate events, or even to identify areas at risk of bushfire to mitigate risk. Interestingly, these problems rely on solutions sourced heavily on satellite imagery and image processing, supported by IoT devices, something I have not have had much exposure to yet.

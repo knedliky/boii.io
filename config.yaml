@@ -1,0 +1,51 @@
+baseURL: boii.io 
+languageCode: en-us
+title: boii.io
+theme: PaperMod
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+assets:
+    favicon: "favicon.ico"
+    favicon16x16:  "favicon-16x16.png"
+    favicon32x32:  "favicon-32x32.png"
+    apple_touch_icon:  "apple-touch-icon.png"
+    safari_pinned_tab:  "safari-pinned-tab.svg"
+
+params:
+  ShowShareButtons: true
+  env: production
+    
+  profileMode:
+      enabled: true
+      title: "boii.io" # optional default will be site title
+      imageUrl: "images/logo.png" # optional
+      buttons:
+        - name: Posts
+          url: /posts
+
+  socialIcons: # optional
+    - name: "github"        
+      url: "https://github.com/knedliky"
+    - name: 'twitter'
+      url: 'https://twitter.com/databoiisisi'
+    - name: 'linkedin'
+      url: 'https://linkedin.com/in/simon-karumbi-00b17368'
+
+menu:
+  main:
+    - identifier: me
+      name: me
+      url: /me
+      weight: 1
+
+    - identifier: posts
+      name: posts
+      url: /posts
+      weight: 2	
